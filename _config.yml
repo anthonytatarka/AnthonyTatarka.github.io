@@ -8,47 +8,47 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Anthony Tatarka"
+title                    : "Joe Tatarka"
 title_separator          : "-"
-name                     : &name "Anthony Tatarka"
-description              : &description "Predoc at The University of Chicago Harris School of Public Policy"
-url                      : https://anthonytatarka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Joe Tatarka"
+description              : &description "personal description"
+url                      : https://JoeTatarka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "anthonytatarka/anthonytatarka.github.io"
+repository               : "JoeTatarka/JoeTatarka.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Anthony Tatarka"
+  avatar           : "profile.jpg"
+  name             : "Joe Tatarka"
   pronouns         : # example: "she/her"  
-  bio              : ""Predoc at The University of Chicago Harris School of Public Policy. University of Notre Dame Class of 2023, B.S in Mathematics and Economics"
+  bio              : "Predoc at The University of Chicago Booth School of Business"
   location         : "Chicago, Illinois"
-  employer         : "University of Chicago"
+  employer         : "Booth School of Business"
   uri              : # URL
-  email            : "anthonytatarka@gmail.com" 
+  email            : "joetatarka@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    :# URL
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "anthonytatarka"
+  github           : "JoeTatarka"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : joetatarka
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -71,8 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
-
+  zhihu            : # URL
 
 
 # Site Settings
@@ -153,26 +152,23 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
-  - .github
   - .jekyll-assets-cache
   - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
-  - CHANGELOG
-  - Capfile
   - config
-  - Dockerfile
-  - Gemfile
-  - Gruntfile.js
   - gulpfile.js
-  - LICENSE
-  - local
   - log
   - node_modules
-  - package.json*
-  - Rakefile
-  - README
+  - package.json
   - tmp
   - vendor
 keep_files:
@@ -202,7 +198,7 @@ kramdown:
   enable_coderay: false
 
 
-# These settings control the types of collections used by the template
+# Collections
 collections:
   teaching:
     output: true
@@ -218,7 +214,7 @@ collections:
     permalink: /:collection/:path/
 
 
-# These settings control how pages and collections are included in the site
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -295,8 +291,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-
-# Mimic GitHub Pages with --safe
+# mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
