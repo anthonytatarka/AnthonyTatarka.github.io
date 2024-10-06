@@ -2,7 +2,7 @@
 title: "The Effects of New Jersey's Mt. Laurel Doctrine on Housing Production"
 collection: publications
 permalink: /publication/2023-05-06-senior-thesis
-excerpt: 'I study New Jersey's 1983 Mt. Laurel Doctrine and its effect on housing supply using a difference-in-difference model. Awarded Honorable Mention for Wilson-Sheehan award for Best Senior Economics Thesis'
+excerpt: 'I study New Jersey's 1983 Mt. Laurel Doctrine and its effect on housing supply using a difference-in-difference model'
 date: 2023-05-06
 venue: Senior Honors Thesis
 paperurl: 'http://anthonytatarka.github.io/files/senior_honors_thesis_2023.pdf'
