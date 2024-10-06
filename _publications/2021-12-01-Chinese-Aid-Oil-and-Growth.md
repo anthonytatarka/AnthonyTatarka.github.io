@@ -2,7 +2,6 @@
 title: "Chinese Aid, Oil, and Growth"
 collection: publications
 permalink: /publication/2021-12-01-Chinese-Aid-Oil-and-Growth
-date: 2021-12-01
 paperurl: 'http://anthonytatarka.github.io/files/dev_econ_class_paper_2021.pdf'
 excerpt: 'I use data on Chinese Foriegn Aid to study the effects of aid on recipient countries GDP using an IV approach.'
 date: 2021-12-01
