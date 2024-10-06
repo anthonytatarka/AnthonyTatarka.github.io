@@ -10,6 +10,6 @@ My name is Anthony Tatarka and I am applying to graduate economics programs. In 
 
 
 ## Background and Interests
-I graduated from the University of Notre Dame in 2023 with a B.S in Mathematics and Economics. While at Notre Dame, I worked as an undergraduate research assistant at the Wilson-Sheehan Lab for Economic Opportunity (LEO). I also was a TA for an econometrics course taught by Professor A. Nilesh Fernando.
+I graduated from the University of Notre Dame in 2023 with a B.S in Mathematics and Economics. While at Notre Dame, I worked as an undergraduate research assistant at the Wilson-Sheehan Lab for Economic Opportunity (LEO) working on randomized controlled trials to get causal effects of programs and services to help those in poverty. In addition to undergraduate research, I was a TA for an econometrics course taught by Professor A. Nilesh Fernando.
 
 I am intersted in applied microeconomics research to study poverty and those in need.
