@@ -21,7 +21,7 @@ repository               : "anthonytatarka/anthonytatarka.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "Professional Photo.jpeg"
   name             : "Anthony Tatarka"
   pronouns         : # example: "she/her"  
   bio              : "Predoc at The University of Chicago Harris School of Public Policy"
