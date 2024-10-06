@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Anthony Tatarka and I am a Predoc working for Professor Bruce Meyer's Comprehensive Income Dataset (CID) team. I am currently applying to graduate economics programs.
+My name is Anthony Tatarka and I am applying to graduate economics programs. In my current role, I am a predoc working for Professor Bruce Meyer's Comprehensive Income Dataset (CID) team.
 
 
 ## Background and Interests
