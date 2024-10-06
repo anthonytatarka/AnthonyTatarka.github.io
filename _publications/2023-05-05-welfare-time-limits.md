@@ -6,6 +6,7 @@ excerpt: 'I study the effects of welfare time limits which were introduced as a 
 welfare in the 1996 Personal Responsibility and Work Opportunity Act and their effect
 on welfare use.'
 date: 2023-05-01
+venue: Advanced Labor Economics Term Paper
 paperurl: 'http://anthonytatarka.github.io/files/labor_econ_class_paper_2023.pdf'
 ---
 
