@@ -1,5 +1,5 @@
 ---
-title: "The Effect of the New Jersey’s Mt. Laurel Doctrine on Housing Production"
+title: "The Effect of New Jersey’s Mt. Laurel Doctrine on Housing Production"
 collection: publications
 permalink: /publication/2023-05-05-senior-honors-thesis
 excerpt: 'I study the 1983 Mt. Laurel Doctrine and its effects on housing production in New Jersey using a difference-in-difference approach. Recieved Honorable Mention for the John Harold Sheehan Award for Best Senior Economics Thesis.'
